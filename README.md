@@ -25,7 +25,7 @@ Hi, I'm **Jakub Pawłowski** 👋
 
 ## 📂 My Repositories (in progress)
 - [Serious game about Cybersecurity Awereness [C#]](https://github.com/PawlowskiJakub/BeMyCyberHero)
-- [DSP Lab Projects](link_to_repo)   
+- [DSP Lab Projects [C]](link_to_repo)   
 - [NGN (Next Generation Networks) Systems and Architectures — project [Python]](link_to_repo)  
 - [Radio Communication Systems — project [Python]](link_to_repo)  
 - [Wireless Network Design — project [Python]](link_to_repo)  
