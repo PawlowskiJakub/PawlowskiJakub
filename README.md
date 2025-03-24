@@ -24,16 +24,14 @@ Hi, I'm **Jakub Pawłowski** 👋
 - Passionate about finding great tech deals and optimizing value — sometimes scoring unbelievable bargains (like nearly 60 meters of Cat6 cable for just a few złotys 😎)  
 
 ## 📂 My Repositories (in progress)
-
-- [DSP Lab Projects](link_to_repo)  
-- [Simple C utilities](link_to_repo)  
-- [Python network tools](link_to_repo)  
+- [Serious game about Cybersecurity Awereness [C#]](https://github.com/PawlowskiJakub/BeMyCyberHero)
+- [DSP Lab Projects](link_to_repo)   
 - [NGN (Next Generation Networks) Systems and Architectures — project [Python]](link_to_repo)  
 - [Radio Communication Systems — project [Python]](link_to_repo)  
 - [Wireless Network Design — project [Python]](link_to_repo)  
 
 ---
 
-> *Always building. Always learning.* 🚀  
+
 > *“Other than death, all failure is psychological.” — Jocko Willink*
 
