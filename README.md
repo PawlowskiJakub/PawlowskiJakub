@@ -5,11 +5,11 @@
 Hi, I'm **Jakub Pawłowski** 👋  
 🎓 Student of Electronics and Telecommunications at **Gdańsk University of Technology**  
 🔐 **Cybersecurity & Networks enthusiast**  
-💻 **My current stack:** Python, Linux, C#  
+💻 **My current stack:** Python, Linux, C#, Networks basics.   
 
 ## 🎯 Current Focus
 
-⚡ Currently focusing on learning for the **CCNA certification**, mastering **C language** for university projects and final exams.  
+⚡ Currently focusing on learning for the **CCNA certification**.  
 📝 Working on my engineering thesis: *"An application demonstrating cryptographic properties of a selected modern block cipher with consideration of different modes of operation".*  
 
 ## 🚀 Ongoing Projects
@@ -26,10 +26,7 @@ Hi, I'm **Jakub Pawłowski** 👋
 ## 📂 My Repositories (in progress)
 - [Serious game about Cybersecurity Awereness [C#]](https://github.com/PawlowskiJakub/BeMyCyberHero)
 - [Cryptographic properties of AES with consideration of different modes of operation - application [Python]](link_to_repo)
-- [DSP Lab Projects [C]](link_to_repo)   
-- [NGN (Next Generation Networks) Systems and Architectures — project [Python]](link_to_repo)  
-- [Radio Communication Systems — project [Python]](link_to_repo)  
-- [Wireless Network Design — project [Python]](link_to_repo)  
+  
 
 ---
 
