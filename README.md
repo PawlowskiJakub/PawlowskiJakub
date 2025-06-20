@@ -25,7 +25,7 @@ Hi, I'm **Jakub Pawłowski** 👋
 
 ## 📂 My Repositories (in progress)
 - [Serious game about Cybersecurity Awereness [C#]](https://github.com/PawlowskiJakub/BeMyCyberHero)
-- [Cryptographic properties of AES with consideration of different modes of operation - application [Python]](link_to_repo)
+- [Cryptographic properties of AES with consideration of different modes of operation - application [Python]](https://github.com/PawlowskiJakub/AES_APP)
   
 
 ---
