@@ -11,7 +11,8 @@ Hi, I'm **Jakub Pawłowski** 👋
 
 ⚡ Currently focusing on learning for the **CCNA certification**.  
 📝 Working on my engineering thesis: *"An application demonstrating cryptographic properties of a selected modern block cipher with consideration of different modes of operation".*  
-⚡ Learning entry Cyber knowledge on TryHackMe platform: https://tryhackme.com/p/Panato
+⚡ Learning entry Cyber-knowledge on TryHackMe platform:
+<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=4292626" style='border:none;'></iframe>
 ## 🚀 Ongoing Projects
 
 📈 Python App for enginering thesis. Maybe some hardware pentest Marauder unit project.
