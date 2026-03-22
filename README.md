@@ -4,7 +4,7 @@
 
 Hi, I'm **Jakub Pawłowski** 👋  
 
-🎓 Bachelor of Engineering in Electronics and Telecommunications with a specialization in ICT Networks <br>
+🎓 Bachelor of Engineering in Electronics and Telecommunications with a specialization in Telecommunications Networks <br>
 🔐 **Cybersecurity & Networks enthusiast**<br>
 💻 **My current stack:** Python, Linux, C#, Networks basics.<br>
 
